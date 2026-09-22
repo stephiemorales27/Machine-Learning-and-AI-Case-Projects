@@ -11,7 +11,7 @@ showcasing the complete workflow from data preparation to model evaluation.
 
 ## Note on Code Attribution
 
-The cases and datasets in this repository were provided as part of a course curriculum (Foundations of AI and Machine Learning). My contribution consists of understanding each case, performing the analysis, implementing and evaluating the models, and interpreting the results — not designing the case studies themselves. This repository is shared as a record of applied learning and understanding, not as original case design or production software.
+The cases, datasets, and base code for these exercises were provided by the course instructor as part of the curriculum (Foundations of AI and Machine Learning). My contribution consists of understanding each case, performing the analysis, implementing and evaluating the models, and interpreting the results — not designing the case studies or base code themselves. This repository is shared as a record of applied learning and understanding, not as original case design or production software.
 
 ## 📂 Contents
 - Exploratory Data Analysis (EDA) and data cleaning
