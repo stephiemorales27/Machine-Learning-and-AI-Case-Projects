@@ -1,12 +1,17 @@
 # Machine-Learning-and-AI-Case-Projects
-Description
+
+## Description
 
 Practical data analysis cases with Python applied to the fundamentals of Machine Learning and Artificial Intelligence. Includes notebooks with preprocessing, visualization, and basic regression and classification models.
 
-This repository contains practical data analysis projects with Python, 
-applied to the fundamentals of Machine Learning and Artificial Intelligence.  
-It includes examples of **traditional ML models** and **Deep Learning applications**, 
+This repository contains practical data analysis projects with Python,
+applied to the fundamentals of Machine Learning and Artificial Intelligence.
+It includes examples of **traditional ML models** and **Deep Learning applications**,
 showcasing the complete workflow from data preparation to model evaluation.
+
+## Note on Code Attribution
+
+The cases and datasets in this repository were provided as part of a course curriculum (Foundations of AI and Machine Learning). My contribution consists of understanding each case, performing the analysis, implementing and evaluating the models, and interpreting the results — not designing the case studies themselves. This repository is shared as a record of applied learning and understanding, not as original case design or production software.
 
 ## 📂 Contents
 - Exploratory Data Analysis (EDA) and data cleaning
@@ -24,8 +29,3 @@ showcasing the complete workflow from data preparation to model evaluation.
   - `pandas`, `numpy`, `matplotlib`, `seaborn`
   - `scikit-learn`
   - `tensorflow` / `keras`
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ml-ai-project-cases.git
